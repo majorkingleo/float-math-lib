@@ -1,0 +1,2 @@
+SUBDIRS=src
+AUTOMAKE_OPTIONS=dist-bzip2
